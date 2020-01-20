@@ -27,4 +27,5 @@ int main()
    printf("Harf sayisi : %d\n", harf);
    printf("Kelime sayisi : %d\n", kelime);
    return 0;
+   
 }
