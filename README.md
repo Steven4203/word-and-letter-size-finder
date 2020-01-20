@@ -1,4 +1,4 @@
-# Word And Letter Size Finder
+# Kelime ve Harf Uzunluğu Bulucu / Word And Letter Size Finder
 
  * Bu kod girdiğiniz cümlenin kelime ve harf sayısını bulmanızı sağlar.
  ___
